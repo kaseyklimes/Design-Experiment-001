@@ -1,0 +1,71 @@
+#bigheader {
+font-size: 10vw;
+font-family: 'Playfair Display', serif;
+text-align: center;
+vertical-align: middle;
+background: url('https://c.pxhere.com/photos/42/f2/tree_road_forest_aerial_view_drone_view-82623.jpg!d');
+/*http://iliketowastemytime.com/sites/default/files/new-york-skyline-night-wallpaper_1.jpg*/
+/*https://c.pxhere.com/photos/42/f2/tree_road_forest_aerial_view_drone_view-82623.jpg!d*/
+/*http://wallpapersmug.com/large/718b87/beach-aerial-view.jpg*/
+/*https://flavorwire.files.wordpress.com/2012/07/malin6.jpg*/
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: calc(100% + 20px) calc(100% + 90px);
+background-size:100%;
+
+height: 45vh;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.horizontal{
+    display: inline-block;
+    width: 10vw;
+    border: solid #11231A .5px;
+}
+.btn {
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  font-family: "Josefin Slab", sans-serif;
+  font-size: 20px;
+  padding: 7px 10px 5px 10px;
+  border: solid #11231A 1px;
+  text-decoration: none;
+  margin:10vw;
+  background: none;
+}
+
+.btn:hover {
+  background: #11231A;
+  text-decoration: none;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  vertical-align: middle;
+  height: 30vh;
+}
+
+#gradient {
+  height:10000px;
+  background: -webkit-linear-gradient(#11231A, #3E613B);
+  border-radius: 15px;
+  font-family: "Josefin Slab", sans-serif;
+  font-size: 24px;
+  padding: 50px;
+  color:white;
+  line-height:140%;
+
+}
+
+.firstcharacter {
+  float: left;
+  font-weight: bold;
+  font-size: 120px;
+  line-height: 60px;
+  line-height: 60px;
+  padding-top: 25px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
